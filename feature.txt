@@ -1,3 +1,4 @@
 "Main feature line 1" 
 "Main feature line 2" 
-"Main line second" 
+"Conflicting line from bug-fix branch" 
+
